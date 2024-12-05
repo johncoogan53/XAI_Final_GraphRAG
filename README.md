@@ -1,3 +1,4 @@
+# Video Link: https://www.youtube.com/watch?v=2hDxoD4PXsU
 ![Medical Knowledge Graph](readme_images/full_graph.png)
 
 # Graph RAG: Powerful, Explainable, Augmentation
